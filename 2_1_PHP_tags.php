@@ -20,7 +20,8 @@
                     'if short_open_tag is enabled'; ?>
         </p>
 
-        <!-- Short tags (example three) are available by default but can be disabled either via the short_open_tag php.ini configuration file directive, or are disabled by default if PHP is built with the --disable-short-tags configuration. -->
+        <!-- Short tags (example three) are available by default but can be disabled either via the short_open_tag php.ini 
+         configuration file directive, or are disabled by default if PHP is built with the --disable-short-tags configuration. -->
     </body>
 </html>
 
