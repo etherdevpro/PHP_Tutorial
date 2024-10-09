@@ -6,3 +6,7 @@
 #### 3.5 [Integers](3_5_Integers.php)
 #### 3.6 [Floating point numbers](3_6_Floating_point_numbers.php)
 #### 3.7 [Strings](3_7_Strings.php)
+#### 3.8 [Numeric strings](3_8_Numeric_String.php)
+#### 3.9 [Arrays](3_9_Arrays.php)
+#### 3.10 [Object](3_10_Object.php)
+#### 3.11 [Enumerations](3_11_Enumerations.php)
